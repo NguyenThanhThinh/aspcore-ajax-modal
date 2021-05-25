@@ -1,0 +1,2 @@
+# aspcore-ajax-modal
+core
